@@ -27,6 +27,11 @@ bash-скрипт для выполнения дедупликации для в
 ```
 
 ## M-bias plot
+
+
+Cамый большой процент - 80% CpG метилирования у Epiblast ( по сравнению с cell 8 (~43%) и ICM(~23%)
+Наименьший у ICM - 23%
+У cell 8 - 43%
 ### 8 cell
 
 <img width="909" alt="8cell1" src="https://user-images.githubusercontent.com/71277325/154860565-e107db73-f854-45dd-89a9-5e8e95f02f26.PNG">
