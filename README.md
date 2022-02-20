@@ -76,7 +76,10 @@ for a in sra:
 
 
 
+## Визуализируйте уровень метилирования и покрытия для каждого образца 
 
+![image_all](https://user-images.githubusercontent.com/71277325/154860899-8c676f88-d79d-4818-8ce6-d2e7b896bc4f.png)
+![image_short](https://user-images.githubusercontent.com/71277325/154860903-fe9a2567-b818-4104-a371-63e50b78cdab.png)
 
 
 
