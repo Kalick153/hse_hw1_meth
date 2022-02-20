@@ -50,6 +50,18 @@ bash-скрипт для выполнения дедупликации для в
 
 
 ## Гистограммы с общим уровнем метелирования
+```
+sra = ['3824222', '5836475',  '5836473']
+for a in sra:
+  name = 's_SRR' + a + '_1_bismark_bt2_pe.deduplicated.bedGraph'
+  a = pd.read_csv(name, delimiter='\t', skiprows=1, header=None)
+  plt.title('Распределение метилирования для %s' % kod) 
+  plt.hist(a[3], bins=100, density=True)
+  plt.xlabel('Процент метилированных цитозинов')
+  plt.ylabel('Частота')
+  plt.show()
+```
+
 ### 8 cell
 
 <img width="540" alt="5836473" src="https://user-images.githubusercontent.com/71277325/154860145-86406460-4622-44ca-8dc3-c885d0489ea0.png">
