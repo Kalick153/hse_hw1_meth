@@ -1,3 +1,3 @@
 # hse_hw1_meth
 
-https://colab.research.google.com/drive/1C0Kl5DIRqN36KyxbAGaZbx0YFZJ-YHVV?usp=sharing
+https://colab.research.google.com/drive/1yDofM1_mVR0kWSLPY2NgrNuJbgXSAhMS?usp=sharing
