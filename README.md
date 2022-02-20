@@ -26,6 +26,29 @@ bash-скрипт для выполнения дедупликации для в
 ! ls *_1_bismark_bt2_pe.bam | xargs -P 4 -tI{} deduplicate_bismark  --bam  --paired  -o s_{} {}
 ```
 
+## M-bias plot
+### 8 cell
+
+<img width="909" alt="8cell1" src="https://user-images.githubusercontent.com/71277325/154860565-e107db73-f854-45dd-89a9-5e8e95f02f26.PNG">
+
+<img width="916" alt="8cell2" src="https://user-images.githubusercontent.com/71277325/154860569-2a745354-431f-4a75-af93-718f48676847.PNG">
+
+
+### Epiblast
+
+<img width="915" alt="epiblast1" src="https://user-images.githubusercontent.com/71277325/154860573-31e09c1b-fcb6-4404-aaba-8867b4b6c460.PNG">
+
+<img width="893" alt="epiblast2" src="https://user-images.githubusercontent.com/71277325/154860577-d279aae1-4a95-4aee-a581-864fc96fcc61.PNG">
+
+
+### ICM
+
+<img width="897" alt="icm1" src="https://user-images.githubusercontent.com/71277325/154860582-2474a070-2c40-4924-bfcd-5cee15e06dc6.PNG">
+
+<img width="908" alt="icm2" src="https://user-images.githubusercontent.com/71277325/154860589-2cba65ce-92da-4909-ae8d-d636e4e6297b.PNG">
+
+
+
 ## Гистограммы с общим уровнем метелирования
 ### 8 cell
 
@@ -41,4 +64,7 @@ bash-скрипт для выполнения дедупликации для в
 
 
 
-## Рисунки с уровнем метилирования и покрытием на любом регионе 
+
+
+
+
