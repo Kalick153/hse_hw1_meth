@@ -14,9 +14,9 @@ https://colab.research.google.com/drive/1yDofM1_mVR0kWSLPY2NgrNuJbgXSAhMS?usp=sh
 
 | Образец | SRA | 11347700-11367700 | 40185800-40195800 | Duplicated, % | 
 | ------------- | ------------- | ------------- | ------------- |  ------------- | 
-| SRR5836473 | 8 cell | 1090 | 464 | Duplicated, % | 
-| SRR3824222 | Epiblast | 2328 | 1062| Duplicated, % | 
-| SRR5836475 | ICM | 1456 | 630 | Duplicated, % | 
+| SRR5836473 | 8 cell | 1090 | 464 | 18.31 | 
+| SRR3824222 | Epiblast | 2328 | 1062| 2.92 | 
+| SRR5836475 | ICM | 1456 | 630 | 9.08 | 
 
 ## Гистограммы с общим уровнем метелирования
 
