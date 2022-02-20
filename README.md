@@ -18,6 +18,8 @@ https://colab.research.google.com/drive/1yDofM1_mVR0kWSLPY2NgrNuJbgXSAhMS?usp=sh
 | SRR3824222 | Epiblast | 2328 | 1062| 2.92 | 
 | SRR5836475 | ICM | 1456 | 630 | 9.08 | 
 
+html файлы в папке html
+
 ## Гистограммы с общим уровнем метелирования
 
 ## Рисунки с уровнем метилирования и покрытием на любом регионе 
