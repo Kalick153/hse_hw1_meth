@@ -6,7 +6,9 @@ https://colab.research.google.com/drive/1yDofM1_mVR0kWSLPY2NgrNuJbgXSAhMS?usp=sh
 
 
 # Часть 1
-
+<img width="404" alt="fastqc1" src="https://user-images.githubusercontent.com/71277325/154861597-780da20c-4972-432f-b885-e7ef77bb152b.PNG">
+<img width="515" alt="fastqc2" src="https://user-images.githubusercontent.com/71277325/154861613-ffad616d-4d1d-4418-827c-157610b5dd72.PNG">
+<img width="542" alt="fastqc3" src="https://user-images.githubusercontent.com/71277325/154861617-f7358710-d77d-4dbe-90e8-c828c43ad7fd.PNG">
 
 # Часть 2
 
