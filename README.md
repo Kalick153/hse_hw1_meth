@@ -20,6 +20,12 @@ https://colab.research.google.com/drive/1yDofM1_mVR0kWSLPY2NgrNuJbgXSAhMS?usp=sh
 
 html файлы в папке html
 
+
+bash-скрипт для выполнения дедупликации для всех образцов одновременно
+'''
+! ls *_1_bismark_bt2_pe.bam | xargs -P 4 -tI{} deduplicate_bismark  --bam  --paired  -o s_{} {}
+'''
+
 ## Гистограммы с общим уровнем метелирования
 ### 8 cell
 
