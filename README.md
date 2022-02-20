@@ -21,5 +21,18 @@ https://colab.research.google.com/drive/1yDofM1_mVR0kWSLPY2NgrNuJbgXSAhMS?usp=sh
 html файлы в папке html
 
 ## Гистограммы с общим уровнем метелирования
+### 8 cell
+
+<img width="540" alt="5836473" src="https://user-images.githubusercontent.com/71277325/154860145-86406460-4622-44ca-8dc3-c885d0489ea0.png">
+
+### Epiblast
+
+<img width="540" alt="3824222" src="https://user-images.githubusercontent.com/71277325/154860163-83aed5cf-6db4-4707-aa01-d19ef6eb604f.png">
+
+### ICM
+
+<img width="540" alt="5836475" src="https://user-images.githubusercontent.com/71277325/154860179-cee04ec3-6e88-454a-9246-6e8315c44868.png">
+
+
 
 ## Рисунки с уровнем метилирования и покрытием на любом регионе 
